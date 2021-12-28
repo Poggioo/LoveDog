@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\90596\\.gradle\\caches\\transforms-3\\1219a94508b824537cf5d0799cb94bc7\\transformed\\core-1.5.0\\res\\values-v21\\values-v21.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\90596\\.gradle\\caches\\transforms-3\\1de61b47a4d9059f241645f26f61cd2b\\transformed\\appcompat-1.3.1\\res\\values-night-v8\\values-night-v8.xml",
@@ -38,14 +38,14 @@
                     }
                 },
                 {
-                    "source": "D:\\mycode\\LoveDog\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\code2\\LoveDog-develop\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "102",
+                        "startOffsets": "100",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "814"
+                        "endOffsets": "800"
                     },
                     "to": {
                         "startLines": "13",
