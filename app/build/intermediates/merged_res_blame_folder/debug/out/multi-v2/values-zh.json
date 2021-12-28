@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
                     "source": "C:\\Users\\90596\\.gradle\\caches\\transforms-3\\9fe039c8aae5cddb2e9937add74190da\\transformed\\jetified-SmartRefreshHeader-1.1.0-alpha-14\\res\\values-zh\\values-zh.xml",
