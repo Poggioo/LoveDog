@@ -1,0 +1,78 @@
+com/homework/lovedog/utils/AdaptiveUtils.java
+ com.homework.lovedog.utils.AdaptiveUtils
+ com.homework.lovedog.utils.AdaptiveUtils$1
+ com.homework.lovedog.utils.AdaptiveUtils$2
+com/homework/lovedog/config/Config.java
+ com.homework.lovedog.config.Config
+com/homework/lovedog/base/BaseRecyclerViewAdapter.java
+ com.homework.lovedog.base.BaseRecyclerViewAdapter
+ com.homework.lovedog.base.BaseRecyclerViewAdapter$OnItemEventListener
+com/homework/lovedog/BuildConfig.java
+ com.homework.lovedog.BuildConfig
+com/homework/lovedog/BR.java
+ com.homework.lovedog.BR
+rxhttp/wrapper/param/RxHttp.java
+ rxhttp.wrapper.param.RxHttp
+com/homework/lovedog/base/BaseViewHolder.java
+ com.homework.lovedog.base.BaseViewHolder
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/homework/lovedog/base/BaseActivity.java
+ com.homework.lovedog.base.BaseActivity
+ com.homework.lovedog.base.BaseActivity$1
+ com.homework.lovedog.base.BaseActivity$ActivityResultCallBack
+ com.homework.lovedog.base.BaseActivity$FragmentStackEntity
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/homework/lovedog/activity/SplashActivity.java
+ com.homework.lovedog.activity.SplashActivity
+com/homework/lovedog/base/BaseModel.java
+ com.homework.lovedog.base.BaseModel
+com/homework/lovedog/databinding/ItemMainDogListLayoutBinding.java
+ com.homework.lovedog.databinding.ItemMainDogListLayoutBinding
+com/homework/lovedog/DataBinderMapperImpl.java
+ com.homework.lovedog.DataBinderMapperImpl
+ com.homework.lovedog.DataBinderMapperImpl$InnerBrLookup
+ com.homework.lovedog.DataBinderMapperImpl$InnerLayoutIdLookup
+com/homework/lovedog/databinding/ActivitySplashLayoutBinding.java
+ com.homework.lovedog.databinding.ActivitySplashLayoutBinding
+com/homework/lovedog/base/BaseUrl.java
+ com.homework.lovedog.base.BaseUrl
+com/homework/lovedog/MyApp.java
+ com.homework.lovedog.MyApp
+com/homework/lovedog/utils/StringFormatUtils.java
+ com.homework.lovedog.utils.StringFormatUtils
+com/homework/lovedog/service/ResultCode.java
+ com.homework.lovedog.service.ResultCode
+com/homework/lovedog/base/BaseRsp.java
+ com.homework.lovedog.base.BaseRsp
+ com.homework.lovedog.base.BaseRsp$1
+com/homework/lovedog/model/MainModel.java
+ com.homework.lovedog.model.MainModel
+com/homework/lovedog/http/AppHolder.java
+ com.homework.lovedog.http.AppHolder
+ com.homework.lovedog.http.AppHolder$1
+com/homework/lovedog/base/SimpleRecyclerViewAdapter.java
+ com.homework.lovedog.base.SimpleRecyclerViewAdapter
+com/homework/lovedog/DataBindingTriggerClass.java
+ com.homework.lovedog.DataBindingTriggerClass
+com/homework/lovedog/databinding/IncludeTopBarBinding.java
+ com.homework.lovedog.databinding.IncludeTopBarBinding
+com/homework/lovedog/anotation/ResultCode.java
+ com.homework.lovedog.anotation.ResultCode
+com/homework/lovedog/widget/CurrencyRefreshLayout.java
+ com.homework.lovedog.widget.CurrencyRefreshLayout
+com/homework/lovedog/http/RxHttpRequest.java
+ com.homework.lovedog.http.RxHttpRequest
+com/homework/lovedog/http/OnError.java
+ com.homework.lovedog.http.OnError
+com/homework/lovedog/base/BaseFragment.java
+ com.homework.lovedog.base.BaseFragment
+com/homework/lovedog/databinding/ActivityMainBinding.java
+ com.homework.lovedog.databinding.ActivityMainBinding
+com/homework/lovedog/service/IService.java
+ com.homework.lovedog.service.IService
+com/homework/lovedog/http/ExceptionHelper.java
+ com.homework.lovedog.http.ExceptionHelper
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
