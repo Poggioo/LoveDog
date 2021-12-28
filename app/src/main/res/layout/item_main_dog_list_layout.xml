@@ -39,6 +39,8 @@
 
 
         <TextView
+            android:layout_marginLeft="10dp"
+            app:layout_constrainedWidth="true"
             android:id="@+id/dog_price_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
