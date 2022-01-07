@@ -6,83 +6,94 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml
+8-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml
+9-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:5:5-81
-11-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:5:22-78
+11-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:5:5-81
+11-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:5:22-78
 12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-12-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:6:5-80
-12-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:6:22-77
+12-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:6:5-80
+12-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:6:22-77
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:7:5-76
-13-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:7:22-73
+13-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:7:5-76
+13-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:7:22-73
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:8:5-79
-14-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:8:22-76
+14-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:8:5-79
+14-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:8:22-76
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:9:5-67
-15-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:9:22-64
+15-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:9:5-67
+15-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:9:22-64
 16
 17    <application
-17-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:11:5-36:19
+17-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:11:5-37:19
 18        android:name="com.homework.lovedog.MyApp"
-18-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:17:9-50
+18-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:12:9-30
 19        android:allowBackup="true"
-19-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:12:9-35
+19-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:13:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.5.0] C:\Users\90596\.gradle\caches\transforms-3\1219a94508b824537cf5d0799cb94bc7\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@drawable/dog_icon"
-22-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:13:9-42
+22-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:14:9-42
 23        android:label="@string/app_name"
-23-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:14:9-41
+23-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:15:9-41
 24        android:networkSecurityConfig="@xml/network_security_config"
-24-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:19:9-69
+24-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:16:9-69
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:15:9-54
+25-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:17:9-54
 26        android:supportsRtl="true"
-26-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:16:9-35
+26-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:18:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-28-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:20:9-65
+28-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:19:9-65
 29        android:usesCleartextTraffic="true" >
-29-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:18:9-44
+29-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:20:9-44
 30        <activity
-30-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:22:9-31:20
-31            android:name="com.homework.lovedog.activity.SplashActivity"
-31-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:23:13-72
+30-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:21:9-24:60
+31            android:name="com.homework.lovedog.ui.login.LoginActivity"
+31-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:22:13-51
 32            android:exported="true"
-32-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:25:13-36
-33            android:theme="@style/Preview" >
-33-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:24:13-43
-34            <intent-filter>
-34-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:26:13-30:29
-35                <action android:name="android.intent.action.MAIN" />
-35-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:27:17-69
-35-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:27:25-66
-36
-37                <category android:name="android.intent.category.LAUNCHER" />
-37-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:29:17-77
-37-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:29:27-74
-38            </intent-filter>
-39        </activity>
-40        <activity android:name="com.homework.lovedog.MainActivity" />
-40-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:34:9-69
-40-->D:\mycode\LoveDog\app\src\main\AndroidManifest.xml:34:19-67
-41
-42        <provider
-42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-43            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-44            android:authorities="com.homework.lovedog.lifecycle-process"
-44-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-45            android:exported="false"
-45-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-46            android:multiprocess="true" />
-46-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-47    </application>
-48
-49</manifest>
+32-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:23:13-36
+33            android:label="@string/title_activity_login" />
+33-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:24:13-57
+34        <activity
+34-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:25:9-34:20
+35            android:name="com.homework.lovedog.activity.SplashActivity"
+35-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:26:13-52
+36            android:exported="true"
+36-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:27:13-36
+37            android:theme="@style/Preview" >
+37-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:28:13-43
+38            <intent-filter>
+38-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:29:13-33:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:30:17-69
+39-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:30:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:32:17-77
+41-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:32:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity android:name="com.homework.lovedog.MainActivity" />
+44-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:35:9-50
+44-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:35:19-47
+45        <activity android:name="com.homework.lovedog.activity.ui.login.LoginActivity" />
+45-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:36:9-69
+45-->D:\code2\LoveDog-develop\app\src\main\AndroidManifest.xml:36:19-66
+46
+47        <provider
+47-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+48            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+49            android:authorities="com.homework.lovedog.lifecycle-process"
+49-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+50            android:exported="false"
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+51            android:multiprocess="true" />
+51-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\90596\.gradle\caches\transforms-3\04a903b2f18f29499a23205811001bfe\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+52    </application>
+53
+54</manifest>

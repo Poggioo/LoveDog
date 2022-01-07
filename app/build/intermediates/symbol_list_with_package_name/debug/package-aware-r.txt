@@ -1628,6 +1628,8 @@ dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen action_bar_size
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
 dimen appcompat_dialog_background_inset
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
@@ -2047,6 +2049,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable icon_btn
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2330,6 +2333,8 @@ id linearBack
 id linearRight
 id listMode
 id list_item
+id loading
+id login
 id masked
 id material_clock_display
 id material_clock_face
@@ -2413,6 +2418,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password
 id password_toggle
 id path
 id pathRelative
@@ -2562,6 +2568,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id username
 id vertical
 id view_offset_helper
 id view_tree_lifecycle_owner
@@ -2636,6 +2643,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
 layout activity_splash_layout
 layout bvp_layout
@@ -2764,6 +2772,8 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string action_sign_in
+string action_sign_in_short
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
@@ -2786,7 +2796,10 @@ string fgh_text_loading_failed
 string fgh_text_loading_finish
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string invalid_password
+string invalid_username
 string item_view_role_description
+string login_failed
 string love_dog
 string material_clock_display_divider
 string material_clock_toggle_content_description
@@ -2848,6 +2861,8 @@ string permissionx_manage_external_storage
 string permissionx_request_install_packages
 string permissionx_system_alert_window
 string permissionx_write_settings
+string prompt_email
+string prompt_password
 string search_menu_title
 string srl_component_falsify
 string srl_content_empty
@@ -2867,6 +2882,8 @@ string srl_header_release
 string srl_header_secondary
 string srl_header_update
 string status_bar_notification_info_overflow
+string title_activity_login
+string welcome
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

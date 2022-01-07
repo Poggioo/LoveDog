@@ -27,7 +27,6 @@
 
 
         <ImageView
-            android:scaleType="fitXY"
             android:id="@+id/dog_image_iv"
             android:layout_width="140dp"
             android:layout_height="140dp"
@@ -39,23 +38,18 @@
 
 
         <TextView
-            android:layout_marginLeft="10dp"
-            app:layout_constrainedWidth="true"
             android:id="@+id/dog_price_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:ellipsize="end"
-            android:singleLine="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="14dp"
             android:text="Price:"
             android:textColor="@color/color_222222"
             android:textSize="16sp"
             android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.082"
             app:layout_constraintStart_toEndOf="@+id/dog_image_iv"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.135" />
+            app:layout_constraintTop_toTopOf="parent" />
+
 
         <TextView
             android:id="@+id/into_detail_tv"

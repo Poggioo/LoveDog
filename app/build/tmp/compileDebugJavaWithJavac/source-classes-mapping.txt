@@ -7,6 +7,11 @@ com/homework/lovedog/config/Config.java
 com/homework/lovedog/base/BaseRecyclerViewAdapter.java
  com.homework.lovedog.base.BaseRecyclerViewAdapter
  com.homework.lovedog.base.BaseRecyclerViewAdapter$OnItemEventListener
+com/homework/lovedog/activity/data/Result.java
+ com.homework.lovedog.activity.data.Result
+ com.homework.lovedog.activity.data.Result$1
+ com.homework.lovedog.activity.data.Result$Error
+ com.homework.lovedog.activity.data.Result$Success
 com/homework/lovedog/BuildConfig.java
  com.homework.lovedog.BuildConfig
 com/homework/lovedog/BR.java
@@ -17,29 +22,35 @@ com/homework/lovedog/base/BaseViewHolder.java
  com.homework.lovedog.base.BaseViewHolder
 androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
+com/homework/lovedog/activity/ui/login/LoggedInUserView.java
+ com.homework.lovedog.activity.ui.login.LoggedInUserView
 com/homework/lovedog/base/BaseActivity.java
  com.homework.lovedog.base.BaseActivity
  com.homework.lovedog.base.BaseActivity$1
  com.homework.lovedog.base.BaseActivity$ActivityResultCallBack
  com.homework.lovedog.base.BaseActivity$FragmentStackEntity
+com/homework/lovedog/activity/data/model/LoggedInUser.java
+ com.homework.lovedog.activity.data.model.LoggedInUser
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
-com/homework/lovedog/activity/SplashActivity.java
- com.homework.lovedog.activity.SplashActivity
+com/homework/lovedog/databinding/ActivityLoginBinding.java
+ com.homework.lovedog.databinding.ActivityLoginBinding
 com/homework/lovedog/base/BaseModel.java
  com.homework.lovedog.base.BaseModel
-com/homework/lovedog/databinding/ItemMainDogListLayoutBinding.java
- com.homework.lovedog.databinding.ItemMainDogListLayoutBinding
+com/homework/lovedog/service/IService.java
+ com.homework.lovedog.service.IService
 com/homework/lovedog/DataBinderMapperImpl.java
  com.homework.lovedog.DataBinderMapperImpl
  com.homework.lovedog.DataBinderMapperImpl$InnerBrLookup
  com.homework.lovedog.DataBinderMapperImpl$InnerLayoutIdLookup
-com/homework/lovedog/databinding/ActivitySplashLayoutBinding.java
- com.homework.lovedog.databinding.ActivitySplashLayoutBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
 com/homework/lovedog/base/BaseUrl.java
  com.homework.lovedog.base.BaseUrl
-com/homework/lovedog/MyApp.java
- com.homework.lovedog.MyApp
+com/homework/lovedog/http/ExceptionHelper.java
+ com.homework.lovedog.http.ExceptionHelper
+com/homework/lovedog/activity/ui/login/LoginResult.java
+ com.homework.lovedog.activity.ui.login.LoginResult
 com/homework/lovedog/utils/StringFormatUtils.java
  com.homework.lovedog.utils.StringFormatUtils
 com/homework/lovedog/service/ResultCode.java
@@ -47,6 +58,8 @@ com/homework/lovedog/service/ResultCode.java
 com/homework/lovedog/base/BaseRsp.java
  com.homework.lovedog.base.BaseRsp
  com.homework.lovedog.base.BaseRsp$1
+com/homework/lovedog/databinding/ItemMainDogListLayoutBinding.java
+ com.homework.lovedog.databinding.ItemMainDogListLayoutBinding
 com/homework/lovedog/model/MainModel.java
  com.homework.lovedog.model.MainModel
 com/homework/lovedog/http/AppHolder.java
@@ -64,15 +77,36 @@ com/homework/lovedog/widget/CurrencyRefreshLayout.java
  com.homework.lovedog.widget.CurrencyRefreshLayout
 com/homework/lovedog/http/RxHttpRequest.java
  com.homework.lovedog.http.RxHttpRequest
-com/homework/lovedog/http/OnError.java
- com.homework.lovedog.http.OnError
 com/homework/lovedog/base/BaseFragment.java
  com.homework.lovedog.base.BaseFragment
+com/homework/lovedog/activity/data/LoginRepository.java
+ com.homework.lovedog.activity.data.LoginRepository
+com/homework/lovedog/activity/ui/login/LoginFormState.java
+ com.homework.lovedog.activity.ui.login.LoginFormState
+com/homework/lovedog/http/OnError.java
+ com.homework.lovedog.http.OnError
+com/homework/lovedog/databinding/ActivitySplashLayoutBinding.java
+ com.homework.lovedog.databinding.ActivitySplashLayoutBinding
 com/homework/lovedog/databinding/ActivityMainBinding.java
  com.homework.lovedog.databinding.ActivityMainBinding
-com/homework/lovedog/service/IService.java
- com.homework.lovedog.service.IService
-com/homework/lovedog/http/ExceptionHelper.java
- com.homework.lovedog.http.ExceptionHelper
-androidx/databinding/DataBindingComponent.java
- androidx.databinding.DataBindingComponent
+com/homework/lovedog/activity/db/DbHelperUtils.java
+ com.homework.lovedog.activity.db.DbHelperUtils
+com/homework/lovedog/activity/data/LoginDataSource.java
+ com.homework.lovedog.activity.data.LoginDataSource
+com/homework/lovedog/activity/ui/login/LoginViewModel.java
+ com.homework.lovedog.activity.ui.login.LoginViewModel
+com/homework/lovedog/activity/ui/login/LoginViewModelFactory.java
+ com.homework.lovedog.activity.ui.login.LoginViewModelFactory
+com/homework/lovedog/bean/User.java
+ com.homework.lovedog.bean.User
+com/homework/lovedog/MyApp.java
+ com.homework.lovedog.MyApp
+com/homework/lovedog/activity/ui/login/LoginActivity.java
+ com.homework.lovedog.activity.ui.login.LoginActivity
+ com.homework.lovedog.activity.ui.login.LoginActivity$1
+ com.homework.lovedog.activity.ui.login.LoginActivity$2
+ com.homework.lovedog.activity.ui.login.LoginActivity$3
+ com.homework.lovedog.activity.ui.login.LoginActivity$4
+ com.homework.lovedog.activity.ui.login.LoginActivity$5
+com/homework/lovedog/activity/SplashActivity.java
+ com.homework.lovedog.activity.SplashActivity

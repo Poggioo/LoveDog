@@ -1,18 +1,22 @@
 [
     {
-        "merged": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_layout.xml",
-        "source": "D:\\mycode\\LoveDog\\app\\src\\main\\res\\layout\\activity_splash_layout.xml"
+        "merged": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_main_dog_list_layout.xml",
+        "source": "D:\\code2\\LoveDog-develop\\app\\src\\main\\res\\layout\\item_main_dog_list_layout.xml"
     },
     {
-        "merged": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\include_top_bar.xml",
-        "source": "D:\\mycode\\LoveDog\\app\\src\\main\\res\\layout\\include_top_bar.xml"
+        "merged": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\code2\\LoveDog-develop\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_main_dog_list_layout.xml",
-        "source": "D:\\mycode\\LoveDog\\app\\src\\main\\res\\layout\\item_main_dog_list_layout.xml"
+        "merged": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\include_top_bar.xml",
+        "source": "D:\\code2\\LoveDog-develop\\app\\src\\main\\res\\layout\\include_top_bar.xml"
     },
     {
-        "merged": "D:\\mycode\\LoveDog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\mycode\\LoveDog\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\code2\\LoveDog-develop\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\code2\\LoveDog-develop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_layout.xml",
+        "source": "D:\\code2\\LoveDog-develop\\app\\src\\main\\res\\layout\\activity_splash_layout.xml"
     }
 ]

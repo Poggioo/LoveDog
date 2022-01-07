@@ -28,6 +28,10 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.homework.lovedog.ui.login.LoginActivity"
+            android:exported="true"
+            android:label="@string/title_activity_login" />
+        <activity
             android:name="com.homework.lovedog.activity.SplashActivity"
             android:exported="true"
             android:theme="@style/Preview" >
@@ -38,6 +42,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.homework.lovedog.MainActivity" />
+        <activity android:name="com.homework.lovedog.activity.ui.login.LoginActivity" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
